@@ -3,7 +3,7 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail ] , Coded By Smart
 # Installation
 ```
 sudo apt-get install git
-git clone https://github.com/TunisianEagles/SocialBox.git
+git clone https://github.com/SmartSoft-Asia/SocialBox.git
 cd SocialBox
 chmod +x SocialBox.sh
 chmod +x install-sb.sh
